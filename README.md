@@ -9,7 +9,7 @@ Displays the weather information in a clean and user-friendly GUI.
 
 ## Installation
 Clone the repository to your local machine:
-git clone https://github.com/yourusername/weather-application.git
+git clone https://github.com/MKempler/Weather-Data-Fetcher.git
 Navigate to the project directory:
 cd weather-application
 Install the required dependencies using pip:
